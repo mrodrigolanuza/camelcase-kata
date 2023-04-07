@@ -17,7 +17,7 @@ Preparación entorno:
 	- npx ts-jest config:init
 
 4.- Añadir configuración de Jest (cobertura de tests)
-    [...]
+        
 	verbose: true,
     collectCoverage: true,
     coverageDirectory: "./coverage",
